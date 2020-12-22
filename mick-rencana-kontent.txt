@@ -1,5 +1,7 @@
 Rencana konten
 
 - bikin video java script
+* bikin es6
+* bikin frame work
 - bikin video php
 - interview
