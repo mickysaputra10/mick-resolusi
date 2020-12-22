@@ -3,7 +3,10 @@ Rencana konten
 - bikin video java script
 * bikin es6
 * bikin frame work
-  ^angular
+  ^vue
   ^react
+- fundamental data structure
 - bikin video php
 - interview
+- belajar php
+- belajar phyton
