@@ -1,0 +1,4 @@
+mick test resolusi
+- konsisten belajar git
+- bisa belajar git dalam 2 hari
+- membuat project di dalam github
