@@ -1,0 +1,5 @@
+Rencana konten
+
+- bikin video java script
+- bikin video php
+- interview
