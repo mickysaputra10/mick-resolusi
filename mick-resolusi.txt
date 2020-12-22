@@ -2,3 +2,5 @@ mick test resolusi
 - konsisten belajar git
 - bisa belajar git dalam 2 hari
 - membuat project di dalam github
+- membuat merch shop
+- kolaborasi dengan expert
