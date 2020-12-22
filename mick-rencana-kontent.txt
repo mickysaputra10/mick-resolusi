@@ -4,6 +4,7 @@ Rencana konten
 * bikin es6
 * bikin frame work
   ^vue
+  ^react
 - fundamental data structure
 - bikin video php
 - interview
